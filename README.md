@@ -9,6 +9,7 @@ I’m **Orlando**, an aspiring **High-Performance & AI Engineer** passionate abo
 - **High-Performance C++**
 - **Linux & Systems Programming**
 - **Applied AI with Python**
+- **Docker and deployment through Docker Hub**
 
 Currently preparing for **internships** in tech companies, while building expertise in **parallel computing**, **algorithms**, and **low-level optimization**.
 
@@ -31,6 +32,8 @@ Currently preparing for **internships** in tech companies, while building expert
 **Systems & Tools:**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Docker Hub](https://img.shields.io/badge/Docker%20Hub-2496ED?logo=docker&logoColor=white)
 
 ---
 
