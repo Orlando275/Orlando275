@@ -33,11 +33,11 @@ Currently preparing for **internships** at **NVIDIA**, **Google**, and **Microso
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Improving
+- **Advanced CUDA Optimization (warp-level, shared memory)** – already implemented in projects, now refining and benchmarking.
+- **UNIX/Linux Systems Programming** – comfortable with scripting, tools, and system-level workflows.
 - **LLVM & Compiler Development**
 - **Large Language Models (LLMs)**
-- **Advanced CUDA Optimization (warp-level, shared memory)**
-- **Deep Linux/UNIX Systems Programming**
 
 ---
 
