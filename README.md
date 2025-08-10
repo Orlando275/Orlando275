@@ -10,7 +10,7 @@ I’m **Orlando**, an aspiring **High-Performance & AI Engineer** passionate abo
 - **Linux & Systems Programming**
 - **Applied AI with Python**
 
-Currently preparing for **internships** at **NVIDIA**, **Google**, and **Microsoft** while building expertise in **parallel computing**, **algorithms**, and **low-level optimization**.
+Currently preparing for **internships** in companies like **NVIDIA**, **Google**, **Tesla**, **Meta**, and **OpenAI**, while building expertise in **parallel computing**, **algorithms**, and **low-level optimization**.
 
 ---
 
@@ -21,6 +21,7 @@ Currently preparing for **internships** at **NVIDIA**, **Google**, and **Microso
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?logo=gnu-bash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 
 **Parallel Computing & AI:**  
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white)
@@ -37,6 +38,7 @@ Currently preparing for **internships** at **NVIDIA**, **Google**, and **Microso
 - **Advanced CUDA Optimization (warp-level, shared memory)** – already implemented in projects, now refining and benchmarking.
 - **UNIX/Linux Systems Programming** – comfortable with scripting, tools, and system-level workflows.
 - **LLVM & Compiler Development**
+- **Assembler & PTX Programming**
 - **Large Language Models (LLMs)**
 
 ---
@@ -48,7 +50,7 @@ Currently preparing for **internships** at **NVIDIA**, **Google**, and **Microso
 - Focus on **shared memory optimization** and **warp-level performance**.
 - Upcoming: Benchmark against theoretical GPU limits.
 
-### 🎮 Tic-Tac-Toe with AI Training
+### 🎮 [Tic-Tac-Toe with AI Training](https://github.com/TU-USUARIO/tictactoe-ai)
 - Play **PvP Tic-Tac-Toe** with move history saved.
 - Includes a **custom AI model trainer** that learns from past games.
 - Built with **Python**, focusing on logic, training, and adaptability.
