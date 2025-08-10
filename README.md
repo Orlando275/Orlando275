@@ -10,7 +10,7 @@ I’m **Orlando**, an aspiring **High-Performance & AI Engineer** passionate abo
 - **Linux & Systems Programming**
 - **Applied AI with Python**
 
-Currently preparing for **internships** in companies like **NVIDIA**, **Google**, **Tesla**, **Meta**, and **OpenAI**, while building expertise in **parallel computing**, **algorithms**, and **low-level optimization**.
+Currently preparing for **internships** in tech companies, while building expertise in **parallel computing**, **algorithms**, and **low-level optimization**.
 
 ---
 
@@ -50,7 +50,7 @@ Currently preparing for **internships** in companies like **NVIDIA**, **Google**
 - Focus on **shared memory optimization** and **warp-level performance**.
 - Upcoming: Benchmark against theoretical GPU limits.
 
-### 🎮 [Tic-Tac-Toe with AI Training](https://github.com/TU-USUARIO/tictactoe-ai)
+### 🎮 [Tic-Tac-Toe with AI Training](https://github.com/Orlando275/Tic-Tac-Toe_AI)
 - Play **PvP Tic-Tac-Toe** with move history saved.
 - Includes a **custom AI model trainer** that learns from past games.
 - Built with **Python**, focusing on logic, training, and adaptability.
