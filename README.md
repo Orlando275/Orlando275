@@ -71,7 +71,7 @@ Currently preparing for **internships** in tech companies, while building expert
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/TU-USUARIO)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/TU-USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Orlando275)
 
 ---
 
