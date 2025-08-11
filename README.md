@@ -70,13 +70,13 @@ Currently preparing for **internships** in tech companies, while building expert
 ---
 
 ## 🌐 Connect with Me
- 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/TU-USUARIO) 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Orlando275)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Orlando275&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
 <p align="center">
