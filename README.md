@@ -48,7 +48,7 @@ Currently preparing for **internships** in tech companies, while building expert
 
 ## 📌 Featured Projects
 
-### 🚀 CUDA Matrix Operations *(In Progress)*
+### 🚀 [CUDA Matrix Operations](https://github.com/Orlando275/CUDA-high-performance-demos)
 - **Matrix multiplication**, **vector normalization**, and **parallel reduction** with CUDA.
 - Focus on **shared memory optimization** and **warp-level performance**.
 - Upcoming: Benchmark against theoretical GPU limits.
