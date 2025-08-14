@@ -4,7 +4,7 @@
 </p>
 
 ## 🎯 About Me
-I’m **Orlando**, an aspiring **High-Performance & AI Engineer** passionate about:
+I’m **Orlando**, Software Development Student **| AI & HPC Enthusiast | C++ | Python | GPU Programming |** passionate about:
 - **GPU Programming** with CUDA
 - **High-Performance C++**
 - **Linux & Systems Programming**
