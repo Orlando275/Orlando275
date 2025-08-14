@@ -76,7 +76,7 @@ Currently building projects in **parallel computing**, low-level optimization, a
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/orlando-emanuel-flores-castillo-22ba6a378)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/orlando-emanuel-flores-castillo-22ba6a378)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Orlando275)
 
 ---
