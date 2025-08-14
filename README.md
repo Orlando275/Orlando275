@@ -4,14 +4,18 @@
 </p>
 
 ## 🎯 About Me
-I’m **Orlando**, Software Development Student **| AI & HPC Enthusiast | C++ | Python | GPU Programming |** passionate about:
-- **GPU Programming** with CUDA
-- **High-Performance C++**
-- **Linux & Systems Programming**
-- **Applied AI with Python**
-- **Docker and deployment through Docker Hub**
+I’m **Orlando**, Software Development Student **| Java | Databases | C++ | Python | AI & HPC Enthusiast |** passionate about:
 
-Currently preparing for **internships** in tech companies, while building expertise in **parallel computing**, **algorithms**, and **low-level optimization**.
+- **Java & Databases → para backend y desarrollo de aplicaciones**
+- **Algorithms & Data Structures → básico pero clave para software engineering**
+- **Version Control with Git → colaboración y workflow profesional**
+- **High-Performance Computing with C++ and CUDA**
+- **Applied AI with Python**
+- **Linux & Systems Programming**
+- **Docker and deployment**
+
+
+Currently building projects in **parallel computing**, low-level optimization, and **applied AI** to strengthen my skills for **software engineering** internships in tech companies.
 
 ---
 
@@ -39,10 +43,12 @@ Currently preparing for **internships** in tech companies, while building expert
 
 ## 📚 Currently Improving
 - **Advanced CUDA Optimization (warp-level, shared memory)** – already implemented in projects, now refining and benchmarking.
+- **Python & Java Development** – software applications, scripting, backend logic
+- **Databases & SQL** – design, queries, and management of relational data
 - **UNIX/Linux Systems Programming** – comfortable with scripting, tools, and system-level workflows.
 - **LLVM & Compiler Development**
 - **Assembler & PTX Programming**
-- **Large Language Models (LLMs)**
+- **Large Language Models (LLMs)** – RAG agents, NLP pipelines, applied AI
 
 ---
 
@@ -70,7 +76,7 @@ Currently preparing for **internships** in tech companies, while building expert
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/TU-USUARIO) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/orlando-emanuel-flores-castillo-22ba6a378)) 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Orlando275)
 
 ---
