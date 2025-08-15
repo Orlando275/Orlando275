@@ -54,6 +54,11 @@ Currently building projects in **parallel computing**, low-level optimization, a
 
 ## 📌 Featured Projects
 
+### 🏦 [JavaBank‑MySQL](https://github.com/Orlando275/JavaBank-MySQL)
+- Multi‑window **Java desktop banking application** with MySQL backend.
+- Features **secure authentication**, **account management**, and **transaction history**.
+- Built with **modular MVC architecture** for scalability and maintainability.
+
 ### 🚀 [CUDA Matrix Operations](https://github.com/Orlando275/CUDA-high-performance-demos)
 - **Matrix multiplication**, **vector normalization**, and **parallel reduction** with CUDA.
 - Focus on **shared memory optimization** and **warp-level performance**.
